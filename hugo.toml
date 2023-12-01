@@ -15,10 +15,10 @@ theme = "paper"
 title = "Rémi Lacombe"
 
 [params]
-  color = 'linen'
+  color = 'white'
 
-  name = "Système d'information"
-  bio = "Rapport de TP - I4PAUC05"
+  name = "Unilasalle Amiens"
+  bio = "I4PAUC"
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
