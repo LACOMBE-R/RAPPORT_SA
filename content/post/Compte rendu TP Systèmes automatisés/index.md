@@ -103,9 +103,9 @@ On doit à présent mapper les entrées/sorties physiques sur les variables corr
 
 ![IO_ADRESSES](././IO_ADRESSES.PNG)
 
-On peut également créer un programme VOYANTS qui prendra en charge l'affichage de l'ensemble des défauts :
+On peut également créer un programme VOYANTS qui prendra en charge l'affichage de l'ensemble des défauts.
 
-{{< pdf_viewer file="././LD_VOYANTS" >}}
+<!-- {{< pdf_viewer file="././LD_VOYANTS" >}} -->
 
 ## 7. Séquentiel
 
