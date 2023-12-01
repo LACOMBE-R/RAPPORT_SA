@@ -1,8 +1,8 @@
 +++
 author = "Rémi Lacombe"
-title = "TP1 Système automatique"
+title = "TP Système automatique"
 date = "2019-03-09"
-description = "Compte-rendu du TP1"
+description = "Compte-rendu du TP"
 
 +++
 
